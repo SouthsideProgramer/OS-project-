@@ -17,7 +17,7 @@
 #include "string.h"
 #include "mm.h"
 #include "mm64.h"
-#include "syscall.h"
+#include "/home/vboxuser/Desktop/BTL/OS-project-/include/syscall.h"
 #include "libmem.h"
 #include <stdlib.h>
 #include <stdio.h>

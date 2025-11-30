@@ -9,7 +9,7 @@
  */
 
 #include "common.h"
-#include "syscall.h"
+#include "/home/vboxuser/Desktop/BTL/OS-project-/include/syscall.h"
 
 int libsyscall (struct pcb_t *caller,
              uint32_t syscall_idx,
